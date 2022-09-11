@@ -9,7 +9,7 @@ PCB and Front Pannel designed by me based off the [Mortiz Klein VCA](https://www
   - **AMP-B** Recieves a signal in the CV input, gain to the CV signal can be added with the *gain* knob. The gain is calculated for a 12V 555 (8V) ADSR to get the maximum useful voltage.
 
 ![](./imgs/vca.JPG)
-![](./imgs/front.PNG)
+![](./imgs/front.png)
 
 ## Components
 
@@ -32,4 +32,4 @@ Since the amplifier is based on a differential pair amplifier, the transistors h
 
 Also any other matching would be useful, for example both the load resistors and the Differential Opamp (substractor) resistors.
  
-![](./imgs/Schematic.PNG)
+![](./imgs/Schematic.png)

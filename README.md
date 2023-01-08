@@ -3,7 +3,7 @@
 PCB and Front Pannel designed by me based off the [Mortiz Klein VCA](https://www.youtube.com/c/MoritzKlein0). This designs blends some of the presented ideas to make the amplifier I wanted.
 
 ## Features
-- **EURORACK** compatible. 100KOhm output and 1KOhm input impedances. Compatible with eurorack sizes standard (128.5mm (3U) x 12HP).
+- **EURORACK** compatible. 100KOhm input and 1KOhm output impedances. Compatible with eurorack sizes standard (128.5mm (3U) x 12HP).
 - Two oscillators with independent CV and outputs.
   - **AMP-A** Recieves a signal in the CV input, offset can be added with the *ofsset* knob to adjust its workign. 
   - **AMP-B** Recieves a signal in the CV input, gain to the CV signal can be added with the *gain* knob. The gain is calculated for a 5V inpur ADSR to get the maximum useful voltage when maxing out the gain, this is done beacuase I plan on using a step sequencer to control the volume, this way I can use SQ-1 as CV for my [Waves VCO](https://github.com/jortigoso/wavesVCO), then take the VCO's output and shape its envelope using the VCA's left channel. Next step would be to take the output and connect it to the second channel for controlling its amplitude using SQ-2 as volume CV.

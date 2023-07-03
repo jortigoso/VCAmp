@@ -13,7 +13,7 @@ PCB and Front Pannel designed by me based off the [Mortiz Klein VCA](https://www
 
 ## Components
 
-Full list of components needed are included in the VCA.csv file. 
+Full list of components needed is included in the VCA.csv file. 
 
 ### Potentiometers
 - Potentiometers are Vertical Alpha 9mmm. 
